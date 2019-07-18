@@ -1,0 +1,8 @@
+{
+  "domain": "aws-cognito.auth0.com",
+  "region": "cn-north-1",
+  "app": "demo",
+  "clientId": "n4JmCUjAA4P7cEIEC3KI9yy8Kt4COqOt",
+  "roleArn": "arn:aws-cn:iam::057005827724:role/oidc-role-eziaoubl",
+  "bucket": "user-content-eziaoubl"
+}
