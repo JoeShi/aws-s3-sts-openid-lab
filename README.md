@@ -135,7 +135,7 @@ POST https://sts.cn-north-1.amazonaws.com.cn/
 }
 ```
 
-`${<<identity-provider-name>:sub}` 是一个变量，实际上是 OpenID Connect 中的 sub 字段，
+`${<identity-provider-name>:sub}` 是一个变量，实际上是 OpenID Connect 中的 sub 字段，
 通常情况下是 OIDC 中的 username 字段。
 
 通过如上的 Policy 配置，我们可以限制用户只能上传/下载/删除自己的文件。
