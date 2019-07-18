@@ -1,4 +1,4 @@
-# S3, STS, OpenID Connect Lab
+# STS, OpenID Connect 上传 S3 精细化权限控制
 
 本文介绍如何使用 AWS Security Token Service(STS) 和 OpenID Connect 结合, 
 实现用户只能上传和查看自己在 S3 中的文件。
